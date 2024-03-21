@@ -10,3 +10,12 @@
 ### Knowledge Edit
 - \[[ICML 2022](https://arxiv.org/abs/2206.06520)\] Memory-Based Model Editing at Scale(SERAC) `2022.06`
 - \[[NeurIPS 2022](https://arxiv.org/abs/2202.05262)\] Locating and Editing Factual Associations in GPT(ROME) `2022.02`
+
+
+
+### Knowledge Fusion
+
+- \[[ICLR 2024](https://arxiv.org/abs/2401.10491)\] Knowledge Fusion of Large Language Models  `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2311.03099)\] Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch `2024.02`
+- \[[NIPS 2023](https://arxiv.org/abs/2306.01708)\] TIES-Merging: Resolving Interference When Merging Models `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2111.09832v2)\] Merging Models with Fisher-Weighted Averaging `2022.08`
