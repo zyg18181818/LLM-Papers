@@ -1,14 +1,17 @@
 ##  Papers
 
 ### Agent
-- \[[arxiv](https://arxiv.org/abs/2402.01620)\] MAGDI: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models `2024.02`
+- \[[ICLR 2023](https://arxiv.org/abs/2210.03629)\]ReAct: Synergizing Reasoning and Acting in Language Models `2023.03`
+- \[[NIPS 2023](https://arxiv.org/abs/2303.11366)\]Reflexion: Language Agents with Verbal Reinforcement Learning `2023.03`
+- \[[NeurIPS 2023](https://arxiv.org/abs/2303.17760)\] CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society `2023.03`
 - \[[ICLR 2024](https://arxiv.org/abs/2308.10848)\] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors `2023.08`
 - \[[ICLR 2024](https://arxiv.org/abs/2308.00352)\] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework `2023.08`
-- \[[NeurIPS 2023](https://arxiv.org/abs/2303.17760)\] CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society `2023.03`
+- \[[arxiv](https://arxiv.org/abs/2310.12823)\] AgentTuning: Enabling Generalized Agent Abilities for LLMs `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2310.05915)\] FireAct: Toward Language Agent Fine-tuning `2023.09`
 
-
-
-
+- \[[arxiv](https://arxiv.org/abs/2402.01620)\] MAGDI: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2309.13007)\] RECONCILE: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2401.05268)\] AUTOACT: Automatic Agent Learning from Scratch via Self-Planning  `2024.02`
 
 
 ### Knowledge Edit
@@ -27,3 +30,6 @@
 - \[[arxiv](https://arxiv.org/abs/2311.03099)\] Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch `2024.02`
 - \[[NIPS 2023](https://arxiv.org/abs/2306.01708)\] TIES-Merging: Resolving Interference When Merging Models `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2111.09832v2)\] Merging Models with Fisher-Weighted Averaging `2022.08`
+
+
+
