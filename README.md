@@ -1,4 +1,4 @@
-##  Papers
+![image](https://github.com/zyg18181818/LLM-Papers/assets/159237954/1fed1356-761e-4a2f-b872-23893be2a346)##  Papers
 
 ### Agent
 - \[[ICLR 2023](https://arxiv.org/abs/2210.03629)\]ReAct: Synergizing Reasoning and Acting in Language Models `2023.03`
@@ -32,4 +32,8 @@
 - \[[arxiv](https://arxiv.org/abs/2111.09832v2)\] Merging Models with Fisher-Weighted Averaging `2022.08`
 
 
-1111
+### Graph+LLM
+- \[[arxiv](https://arxiv.org/pdf/2310.13023.pdf)\] GraphGPT: Graph Instruction Tuning for Large Language Models `2023.10`
+- \[[arxiv](https://arxiv.org/pdf/2310.05845.pdf)\] Graphllm: Boosting graph reasoning ability of large language model `2023.10`
+- \[[WWW 2024](https://arxiv.org/pdf/2402.07197.pdf)\] GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks `2024.02`
+
