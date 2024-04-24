@@ -1,4 +1,4 @@
-![image](https://github.com/zyg18181818/LLM-Papers/assets/159237954/1fed1356-761e-4a2f-b872-23893be2a346)##  Papers
+![image](https://github.com/zyg18181818/LLM-Papers/assets/60642274/04177274-df20-4189-b959-ad402049c3ca)![image](https://github.com/zyg18181818/LLM-Papers/assets/60642274/35280f5e-1d1b-46a2-9b2a-a20cc4c42216)![image](https://github.com/zyg18181818/LLM-Papers/assets/159237954/1fed1356-761e-4a2f-b872-23893be2a346)##  Papers
 
 ### Agent
 - \[[ICLR 2023](https://arxiv.org/abs/2210.03629)\]ReAct: Synergizing Reasoning and Acting in Language Models `2023.03`
@@ -21,8 +21,12 @@
 - \[[ACL 2023](https://arxiv.org/abs/2305.12740)\] Can We Edit Factual Knowledge by In-Context Learning? `2023.05`
 - \[[ICML 2022](https://arxiv.org/abs/2206.06520)\] Memory-Based Model Editing at Scale(SERAC) `2022.06`
 - \[[NeurIPS 2022](https://arxiv.org/abs/2202.05262)\] Locating and Editing Factual Associations in GPT(ROME) `2022.02`
+- \[[arxiv](https://arxiv.org/abs/2305.14795)\] MQUAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2312.15194)\] PokeMQA: Programmable knowledge editing for Multi-hop Question Answering `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2404.00492)\] Multi-hop Question Answering under Temporal Knowledge Editing(TEMPLE-MQA) `2024.04`
 
-
+### Knowledge + LLM
+- \[[ICLR 2024](https://arxiv.org/abs/2305.09955)\] Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models `2023.05`
 
 ### Knowledge Fusion
 
