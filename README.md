@@ -41,3 +41,6 @@
 - \[[arxiv](https://arxiv.org/pdf/2310.05845.pdf)\] Graphllm: Boosting graph reasoning ability of large language model `2023.10`
 - \[[WWW 2024](https://arxiv.org/pdf/2402.07197.pdf)\] GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks `2024.02`
 
+### Multimodal hallucination
+- \[[ICML 2024](https://arxiv.org/abs/2403.00425)\] HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding `2024.05`
+- \[[CVPR 2024](https://arxiv.org/abs/2311.16922)\] Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding `2023.11`
